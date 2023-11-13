@@ -15,7 +15,7 @@ let prezzokm = kmdapercorrere * 0.21;
 if (eta < 19) {
     prezzokm = prezzokm - (prezzokm * 0.2);
 }
-else if (eta > 65) {
+else if (eta > 64) {
     prezzokm = prezzokm - (prezzokm * 0.4);
 }
 
